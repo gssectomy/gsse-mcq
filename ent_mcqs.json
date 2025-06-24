@@ -1,0 +1,21 @@
+{
+    "title": "ENT Surgery",
+    "questions": [
+        {
+            "q": "The middle ear cavity communicates with:",
+            "options": [
+                "Mastoid antrum",
+                "Eustachian tube",
+                "External auditory canal",
+                "Nasopharynx"
+            ],
+            "answers": [
+                true,
+                true,
+                false,
+                true
+            ],
+            "explanation": "The middle ear communicates with the mastoid antrum and nasopharynx via the Eustachian tube."
+        }
+    ]
+}
