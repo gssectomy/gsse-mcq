@@ -1,0 +1,85 @@
+{
+    "title": "Orthopaedics",
+    "questions": [
+        {
+            "q": "Which tendons lie volar to the distal radius?",
+            "options": [
+                "Extensor carpi ulnaris",
+                "Flexor pollicis longus",
+                "Flexor digitorum superficialis",
+                "Abductor pollicis longus"
+            ],
+            "answers": [
+                false,
+                true,
+                true,
+                false
+            ],
+            "explanation": "Flexor pollicis longus and flexor digitorum superficialis lie volar to the distal radius, making them relevant during volar plating."
+        },
+        {
+            "q": "In carpal tunnel syndrome, which structure is most commonly compressed?",
+            "options": [
+                "Median nerve",
+                "Ulnar nerve",
+                "Flexor carpi radialis",
+                "Radial artery"
+            ],
+            "answers": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "explanation": "The median nerve runs through the carpal tunnel and is the structure compressed in carpal tunnel syndrome."
+        },
+        {
+            "q": "The floor of the carpal tunnel includes:",
+            "options": [
+                "Flexor retinaculum",
+                "Lunate and capitate",
+                "Scaphoid and trapezium",
+                "Hamate and pisiform"
+            ],
+            "answers": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "explanation": "The floor of the carpal tunnel is formed by the concave carpal bones like lunate and capitate."
+        },
+        {
+            "q": "Which structure is at risk during volar plate fixation of distal radius fractures?",
+            "options": [
+                "Median nerve",
+                "Ulnar artery",
+                "Radial nerve",
+                "Flexor pollicis longus"
+            ],
+            "answers": [
+                true,
+                false,
+                false,
+                true
+            ],
+            "explanation": "Both the median nerve and FPL tendon lie close to the volar aspect and can be affected by hardware or retraction."
+        },
+        {
+            "q": "Which of the following is NOT a content of the carpal tunnel?",
+            "options": [
+                "Flexor digitorum superficialis",
+                "Flexor pollicis longus",
+                "Flexor carpi ulnaris",
+                "Median nerve"
+            ],
+            "answers": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "explanation": "Flexor carpi ulnaris runs outside the carpal tunnel; the rest are within it."
+        }
+    ]
+}

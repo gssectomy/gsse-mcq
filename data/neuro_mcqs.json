@@ -1,0 +1,21 @@
+{
+    "title": "Neurosurgery",
+    "questions": [
+        {
+            "q": "Which artery is most commonly involved in epidural hematomas?",
+            "options": [
+                "Middle meningeal artery",
+                "Anterior cerebral artery",
+                "Vertebral artery",
+                "Superior sagittal sinus"
+            ],
+            "answers": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "explanation": "The middle meningeal artery is commonly torn with temporal bone fractures causing epidural hematoma."
+        }
+    ]
+}
